@@ -1,1 +1,14 @@
 .DS_Store
+node_modules
+pids
+*.pid
+*.seed
+.grunt
+coverage
+lib-cov
+.lock-wscript
+build/Release
+jspm_packages
+.npm
+.node_repl_history
+dist
