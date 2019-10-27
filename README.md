@@ -13,5 +13,5 @@ Check 127.0.0.1:8000
 `npm run dev`
 #### Influenced by acloud.guru Serverless Portfolio course
 
-
+#start at Babel  
 #WAS LAST AT TEsting react, 7:33 into vid
