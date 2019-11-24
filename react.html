@@ -10,9 +10,16 @@
     <script type="text/javascript" src="https://unpkg.com/react@15.3.1/dist/react.min.js"></script>
     <script type="text/javascript" src="https://unpkg.com/react-dom@15.3.1/dist/react-dom.min.js"></script>
 
-
     <script type="text/babel" data-presets="react">
-      ReactDOM.render(<div>Hello, world!</div>, document.getElementById('content'));
+
+      class NameInput extends React.Component {
+        render() {
+          return (
+            <div>Hello, world, again!</div>
+          )
+        }
+      }
+      ReactDOM.render(<NameInput />, document.getElementById('content'));
     </script>
   </body>
 </html>
