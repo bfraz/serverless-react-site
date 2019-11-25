@@ -5,7 +5,9 @@ import ExampleWork from './example-work';
 
 const myWork = [
   {
-    'title': "Work Example",
+    'title': "Data Lake Ingestion on AWS",
+    'href': "https://github.com/bfraz/kinesis-redshift-pipeline",
+    'desc': "An Automated data ingestion solution on AWS using Apache Nifi to manipulate data and send to Redshift",
     'image': {
       'desc': "example screenshot of a project involving code",
       'src': "images/example1.png",
@@ -13,7 +15,9 @@ const myWork = [
     }
   },
   {
-    'title': "Portfolio Boilerplate",
+    'title': "System Administration",
+    'href': "https://github.com/bfraz/nessus-ec2-rhel-ansible",
+    'desc': "Example leveraging Ansible for System Administration",
     'image': {
       'desc': "A Serverless Portfolio",
       'src': "images/example2.png",
@@ -21,7 +25,9 @@ const myWork = [
     }
   },
   {
-    'title': "Work Example",
+    'title': "Web Development",
+    'href': "https://github.com/bfraz/go-mvc-web-development",
+    'desc': "An example of a website built in Go, leveraging MVC architecture",
     'image': {
       'desc': "example screenshot of a project involving code",
       'src': "images/example3.png",
