@@ -3,10 +3,13 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 8
-  build:
-    commands:
+      nodejs: 8  
+  pre_build:
+    comands:
       - npm install
+      - npm test
+  build:
+    commands
       - npm run webpack
 artifacts:
   files:

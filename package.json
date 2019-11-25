@@ -4,7 +4,7 @@
   "description": "my serverless portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "webpack": "webpack",
     "webpack-dev": "webpack --mode development",
     "webpack-prod": "webpack --mode production",
