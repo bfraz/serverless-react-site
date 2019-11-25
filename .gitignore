@@ -34,4 +34,5 @@ node_modules
 .npm
 
 # others
+dist
 v8-compile-cache*
