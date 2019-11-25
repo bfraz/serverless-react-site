@@ -20,7 +20,7 @@ ws
 Expect the site to be on port 8000. Either try public ip of server or localhost depending on your setup.
 
 
-## Notes from starting from scratch
+## Notes starting from scratch
 ```
 npm init
 npm install --save react@16.2.0 react-dom@16.2.0
