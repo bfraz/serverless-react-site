@@ -1,4 +1,3 @@
-import 'react-dom'
-
-console.log("Loaded react-dom");
-console.log("webpack works");
+import React from 'react';
+import ReactDOM from 'react-dom';
+import ExampleWork from './example-work';
