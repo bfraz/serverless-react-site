@@ -17,7 +17,7 @@ const myWork = [
   {
     'title': "System Administration",
     'href': "https://github.com/bfraz/nessus-ec2-rhel-ansible",
-    'desc': "Example leveraging Ansible to for System Administration",
+    'desc': "Example leveraging Ansible for System Administration",
     'image': {
       'desc': "A Serverless Portfolio",
       'src': "images/example2.png",
